@@ -14,7 +14,7 @@ public class Main {
         loadData();
 
         while (true) {
-            System.out.println("\nExpense Tracker");
+            System.out.println("\nSimple Expense Tracker");
             System.out.println("1 Add");
             System.out.println("2 View");
             System.out.println("3 Total");
