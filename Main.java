@@ -2,10 +2,12 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
+    
 
     static ArrayList<Expense> list = new ArrayList<>();
 
     public static void main(String[] args) {
+        System.out.println("Expense Tracker Started");
 
         Scanner sc = new Scanner(System.in);
 
