@@ -1,30 +1,41 @@
-# Expense Tracker (Java)
+Expense Tracker (Java)
+About the Project
+This is a simple Java console project to track daily expenses.
+The program lets the user add expenses, view them, and calculate total spending.
 
-## About
+Project Structure
+Expense-Tracker/
+│
+├── app/
+│   └── Main.java
+│
+├── model/
+│   └── Expense.java
+│
+├── service/
+│   └── ExpenseService.java
+│
+├── util/
+│   └── FileUtil.java
+│
+└── README.md
 
-This is a simple Java program to track daily expenses. It is a console-based project.
+Features
+•	Add expense
+•	View all expenses
+•	Calculate total amount
 
-## Features
+How to Run
+1.	Open the project in VS Code or Eclipse
+2.	Compile:
+javac app/Main.java
+3.	Run:
+java app.Main
 
-* Add expense
-* View expenses
-* Calculate total
-* Delete expense
+Notes
+•	This is a basic console-based project
+•	Uses simple Java concepts like classes and objects
 
-## How to Run
+Author
+SHAURYA VRADHAN KATIYAR
 
-1. Compile:
-   javac Main.java Expense.java
-
-2. Run:
-   java Main
-
-## Files
-
-* Main.java
-* Expense.java
-* data.txt
-
-## Note
-
-This project is made for learning basic Java concepts.
