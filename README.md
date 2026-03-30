@@ -1,9 +1,15 @@
 Expense Tracker (Java)
+
+
 About the Project
+
+
 This is a simple Java console project to track daily expenses.
 The program lets the user add expenses, view them, and calculate total spending.
 
 Project Structure
+
+
 Expense-Tracker/
 │
 ├── app/
