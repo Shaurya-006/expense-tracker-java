@@ -64,5 +64,4 @@ The program shows a menu where the user can select options to manage expenses.
 ---
 
 ## Author
-
-Your Name
+Shaurya Vardhan Katiyar
